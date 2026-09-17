@@ -13,12 +13,12 @@ body {
     line-height: 1.6;
     margin: 0;
     color: #3B2A1E;             /* marrom escuro (texto) */
-    background-color: #d60707;  /* creme (fundo) */
+    background-color: #dadada;  /* creme (fundo) */
 }
 
 /* ===== Cabeçalho ===== */
 .cabecalho {
-    background-color: #671cf1;  /* âmbar escuro — texto branco tem contraste AA */
+    background-color: #cf1d1d;  /* âmbar escuro — texto branco tem contraste AA */
     color: #FFFFFF;
     text-align: center;
     padding: 24px 16px;
