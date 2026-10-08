@@ -19,7 +19,7 @@ body {
 /* ===== Cabeçalho ===== */
 .cabecalho {
     background-color: #e10600;  /* âmbar escuro — texto branco tem contraste AA */
-    color: #FFFFFF;
+    color: #151515;
     text-align: center;
     padding: 24px 16px;
 }
@@ -55,7 +55,7 @@ blockquote {
     border-left: 4px solid #ffd800;
     margin: 0 0 16px;
     padding: 8px 16px;
-    background-color: #edd872;
+    background-color: #FFFFFF;
 }
 
 /* ===== Cards de destaque (Flexbox) ===== */
