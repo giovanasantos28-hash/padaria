@@ -13,12 +13,12 @@ body {
     line-height: 1.6;
     margin: 0;
     color: #1c1815;             /* marrom escuro (texto) */
-    background-color: #f1c566;  /* creme (fundo) */
+    background-color: #e10600;  /* creme (fundo) */
 }
 
 /* ===== Cabeçalho ===== */
 .cabecalho {
-    background-color: #bb0000;  /* âmbar escuro — texto branco tem contraste AA */
+    background-color: #e10600;  /* âmbar escuro — texto branco tem contraste AA */
     color: #FFFFFF;
     text-align: center;
     padding: 24px 16px;
@@ -52,10 +52,10 @@ main {
 }
 
 blockquote {
-    border-left: 4px solid #1ae153;
+    border-left: 4px solid #ffd800;
     margin: 0 0 16px;
     padding: 8px 16px;
-    background-color: #dcb17d;
+    background-color: #f3f0ee;
 }
 
 /* ===== Cards de destaque (Flexbox) ===== */
